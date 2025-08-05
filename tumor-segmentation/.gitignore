@@ -6,6 +6,8 @@
 .devcontainer
 .jupyter
 
+
+data
 # Generic Python files (Source: https://github.com/github/gitignore/blob/main/Python.gitignore @ 2022-03-23):
 
 # Byte-compiled / optimized / DLL files
