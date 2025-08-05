@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+numpy
+pydantic
+opencv-python
+matplotlib
+torch
+tqdm
