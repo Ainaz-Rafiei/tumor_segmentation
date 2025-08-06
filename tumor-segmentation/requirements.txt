@@ -2,7 +2,7 @@ fastapi
 uvicorn
 numpy
 pydantic
-opencv-python
+opencv-python-headless
 matplotlib
 tqdm
 segmentation-models-pytorch
