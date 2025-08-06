@@ -2,16 +2,11 @@ fastapi
 uvicorn
 numpy
 pydantic
-opencv-python-headless
+opencv-python
 matplotlib
+torch>=2.3.0
 tqdm
 segmentation-models-pytorch
 albumentations
-timm
-safetensors
-
-# Use the latest CPU-only PyTorch with uint64 support
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
-torchaudio==2.2.2+cpu
--f https://download.pytorch.org/whl/torch_stable.html
+timm>=0.9.12
+safetensors>=0.4.0
